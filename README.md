@@ -1,6 +1,8 @@
 # Make your own WisBlock Sensor board
 
-<center><img src="./assets/RTC-3D-Top.png" alt="Proto" width=25%><img src="./assets/RTC-3D-Bottom.png" alt="Proto" width=25%></center>
+| Top view | Connector view |
+| :-: | :-: |
+| ![top](./assets/RTC-3D-Top.png) | ![top](./assets/RTC-3D-Bottom.png) |    
 
 **Content**
 - [Read first](#Read-this-first)
@@ -20,7 +22,7 @@ In this small tutorial I want to show you how to make your own WisBlock Sensor R
    - Panasonic connector [data sheet](https://www.panasonic-electric-works.com/pew/eu/downloads/ds_a4s_en.pdf)    
    - TXGA connector [female data sheet](https://tupian.txga.com/serials-attach/FBB04004-F/Drawing-FBB04004-F.pdf)    
    - TXGA connector [male data sheet](https://tupian.txga.com/serials-attach/FBB04004-M/Drawing-FBB04004-M.pdf)
-- Schematic and PCB part libraries for the other PCB design tools than Eagle are available in the [Component Search Engine](https://componentsearchengine.com/search?country=US&language=en&source=1048575&term=FBB04004) 
+- Schematic and PCB part libraries for other PCB design tools than Eagle are available in the [Component Search Engine](https://componentsearchengine.com/search?country=US&language=en&source=1048575&term=FBB04004) 
 - Have a good look into the datasheet of the RAK5005-O WisBlock Base board to understand the signals connected to the 4 sensor slots. => [RAK5005-O datasheet](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK5005-O/Datasheet/)    
 - Have a good look into the datasheet of one of the existing WisBlock Sensor modules to understand the usage of the signals. For example the [RAK1906 Environment sensor](https://docs.rakwireless.com/Product-Categories/WisBlock/RAK1906/Datasheet/)    
 
@@ -91,7 +93,9 @@ As you can see it is not difficult to design a custom WisBlock Sensor module. Ju
 I hope this small tutorial was useful. If you successfully designed your own WisBlock Sensor module, please share details in our forum section for [WisBlock](https://forum.rakwireless.com/c/wisblock/67).     
 Thank you for reading this tutorial and supporting RAKwireless by using our WisBlock products.    
 
-<center><img src="./assets/RTC-3D-Top.png" alt="Proto" width=25%><img src="./assets/RTC-3D-Bottom.png" alt="Proto" width=25%></center>
+| Top view | Connector view |
+| :-: | :-: |
+| ![top](./assets/RTC-3D-Top.png) | ![top](./assets/RTC-3D-Bottom.png) |   
 
 **RAKwireless invests time and resources providing this open source code, please support RAKwireless and open-source hardware by purchasing products from [RAKwireless](https://rakwireless.com/)!**
 
